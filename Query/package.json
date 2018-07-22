@@ -1,0 +1,31 @@
+{
+  "name": "query",
+  "version": "1.0.0",
+  "description": "A simple asp.net core app for saving query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombcreator/Query.git"
+  },
+  "keywords": [
+    "#Query#Project#ASP.NET_CORE"
+  ],
+  "author": "arashjp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bombcreator/Query/issues"
+  },
+  "homepage": "https://github.com/bombcreator/Query#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "merge-stream": "^1.0.1",
+    "popper": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
